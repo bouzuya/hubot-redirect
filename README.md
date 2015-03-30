@@ -2,6 +2,8 @@
 
 A Hubot script to redirect message from direct message to channel
 
+**Slack only**
+
 ## Installation
 
     $ npm install https://github.com/bouzuya/hubot-redirect/archive/master.tar.gz
