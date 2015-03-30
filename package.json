@@ -1,7 +1,7 @@
 {
   "name": "hubot-redirect",
   "description": "A Hubot script to redirect message from direct message to channel",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "bouzuya",
     "email": "m@bouzuya.net",
